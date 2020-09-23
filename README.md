@@ -5,7 +5,7 @@ Gateway Absensi adalah aplikasi yang bertujuan untuk merekap data kehadiran abse
 
 # Petunjuk Penggunaan
 1. Konfigurasi Perangkat Mikrotik dari Internet Gateway s/d Hotspot <br/>
-requiretment :
+requiretment : <br/>
 dns name : absensi.gate <br/>
 ip hotspot : 10.1.1.1 <br/>
 html-directory : hotspot scan <br/>
